@@ -1,6 +1,6 @@
 # discord1
 
-A new Flutter project.
+This is Discord Login Screen Clone.
 
 ## Getting Started
 
